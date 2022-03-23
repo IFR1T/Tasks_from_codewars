@@ -1,0 +1,1 @@
+The main idea here - summ all numbers that are multiples of 3 and 5, minus numbers that are multiples of 15. 

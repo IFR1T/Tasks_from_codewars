@@ -1,0 +1,1 @@
+This time I overcompicated things, and didnt find an optimal solution. I used 1 by one pop and comparison, while the simple solution was to square the fist array and then just sort both. 

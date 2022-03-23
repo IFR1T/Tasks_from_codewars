@@ -1,0 +1,1 @@
+tranformed initial word to sorted list of letters, than just compared it to sorted lists of letters of all possible annograms.

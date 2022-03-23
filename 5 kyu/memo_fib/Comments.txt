@@ -1,0 +1,2 @@
+To deal with the problem, i created global res list, that filled with fib numbers as they were calculated.
+I am not sure that this is what author meant, but it works

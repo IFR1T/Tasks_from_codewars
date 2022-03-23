@@ -1,0 +1,2 @@
+To execute this task I made a func 'is_platoe', that determins if after this 'stable' positions numbers will go down.
+after that, I just had to do numbers 1 by 1, checking, if they fit the peaks conditions

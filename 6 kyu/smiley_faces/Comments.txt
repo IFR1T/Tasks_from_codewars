@@ -1,0 +1,1 @@
+This task defenetly require re library for optimal sulution. Unfortunatly, i didnt kow the re library yet, so i had to use different aproach. I created list of all possible smiles, and then checked, if they were in given array. Works simple and fine

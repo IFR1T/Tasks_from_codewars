@@ -1,0 +1,1 @@
+I went char by char and searched for it in the rest of the string. very siple task

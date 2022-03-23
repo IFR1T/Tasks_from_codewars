@@ -1,0 +1,1 @@
+The hard part wa to deal with 9s. I didnt find shortcut here, so I used not very elegant solution. Also, num_list wasnt necessary here, shouldve delete it, num_dict would be fine.

@@ -1,0 +1,1 @@
+turn array2 to string, stiped array1 from duplicates, and then just went word-by-word in array 1, checked if it is in array2.

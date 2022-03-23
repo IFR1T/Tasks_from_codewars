@@ -1,0 +1,1 @@
+I tried couple of shortcuts, but shortcuts didnt work, so I just did a simple all-list-check, with pop/append for zeros.

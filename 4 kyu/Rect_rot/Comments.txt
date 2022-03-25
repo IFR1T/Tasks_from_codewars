@@ -1,0 +1,3 @@
+This is my worst solution yet. For some reason i didnt see that points that I need to count generate rectangle by themselfs, and are very easy to count knowing zise of the sides.
+So I came up with different, very coplex solution.
+I noticed that inside the rectangle when x(or) y goes up, it has simple pattern: 0/1/2 when first got into rectangle perimeter; plus 2 for each x/y, until reach max number of points; then platoe (0 is always inside platoe); then simmetrical goes down. So i calculated the number of points using this pattern. Very long and comlex solution.

@@ -1,0 +1,4 @@
+This task is all about math, so it wasnt hard. The key ideas are:
+1. Last didgit of number in power X is the last digit of the last digit of initial number in power X
+2. There is a pattern in powering numbers up, like 2 * 2 = 4, 4 * 2 = 8. 8 * 2 = 6, 6 * 2 = 2.... ad so on
+So, I just wrote down the pattern, and then with O(0) I can make the calculation.

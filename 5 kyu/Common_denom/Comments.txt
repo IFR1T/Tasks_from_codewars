@@ -1,0 +1,1 @@
+This task made me remember the Fraction module I learned about. With this module it was ectualy really simple - just some basic math + some code

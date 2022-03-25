@@ -1,0 +1,1 @@
+As number always in the end, I just need to go reverse, and separate number from text. If there is no number - add 1, if there are '0' inside - just add some back. Not very elegant solution, code could be simplified, but not too complex as well.

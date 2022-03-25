@@ -1,0 +1,1 @@
+Very hard task, which I was able to solve only with HINT II. On the other hand, after reading the hint and realising, that its all about power of a matrix - it was realy easy task, I just made a recouse func.  Very satisfying to see, how fast it can be

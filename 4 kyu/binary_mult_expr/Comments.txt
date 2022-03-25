@@ -1,0 +1,9 @@
+I didnt really work with re module before this task, so thanks to the author, I learned a lot about it. I didnt fint an optimal solution, which I later read on the solutions page. My idea is this:
+1. if binary num is multiple of 3, its like regular num multiple of 11, so sum of numbers in odd and even positions should be 3 * x
+2. I realized, that for this structure there could be 3 types of 'blocks' inside a number:
+11, 1001, 100001 etc. - fully simetrical block
+101 -- 101, with simetrical assimetry
+10101 - block without simetry, with some of odd numbers 3
+So, if given number contains of this 3 blocks (including nesting 1 in another), it is multiple of 3
+
+My regular wxpration is realy big, and is not readble by someone else, but I did invent it myself, and for me thats something

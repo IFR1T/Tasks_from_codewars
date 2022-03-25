@@ -1,0 +1,1 @@
+It might be not the shortest solution, but it is fast and it is very readble. Solution itself wasnt hard,  very simple algoritm

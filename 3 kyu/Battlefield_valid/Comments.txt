@@ -1,0 +1,8 @@
+Even though Ive played a lot of battleship, it was a hard task. I decided to go use following approach:
+1. Create a list with all the filled squares.
+2. Check if there are any filled squares that are diagonal neighbours. There cannot be diagonal neighbours in battleships, ad by this check we make sure that ships are straight and there are no wrong neghbours. 
+3. After that I check if there are, indeed, 20 filled boxes. If there are, all I have to do next = make sure, that there are 4 1s, 3 2s etc
+4. I make a dict for every filled square with a number of neighboures. There should be 4 squares with 0 neighbours, 12 with 1, 4 with 2
+5. I check if there are exactly 3 pairs of 1-neigbour-boxes, that are neighbours to each other. If there are - there must be 1 4 and 2 3s, so thats it. 
+
+There may be more simple solution, but I think mine is very understandble, and easy to read

@@ -1,0 +1,1 @@
+To be honest, it was very simple task, I just used a breadth-first search algorithm from graph theory. I dont know what else to say, just a textbook task and textbook solution

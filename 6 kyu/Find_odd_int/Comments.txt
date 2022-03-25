@@ -1,0 +1,1 @@
+Used dictionary for less memory costs, simple task
